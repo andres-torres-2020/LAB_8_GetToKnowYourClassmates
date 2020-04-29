@@ -1,0 +1,13 @@
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_8_GetToKnowYourClassmates\LAB_8_GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\LAB_8_GetToKnowYourClassmates.csprojAssemblyReference.cache
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_8_GetToKnowYourClassmates\LAB_8_GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\LAB_8_GetToKnowYourClassmates.csproj.CoreCompileInputs.cache
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_8_GetToKnowYourClassmates\LAB_8_GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\LAB_8_GetToKnowYourClassmates.AssemblyInfoInputs.cache
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_8_GetToKnowYourClassmates\LAB_8_GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\LAB_8_GetToKnowYourClassmates.AssemblyInfo.cs
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_8_GetToKnowYourClassmates\LAB_8_GetToKnowYourClassmates\bin\Debug\netcoreapp3.1\LAB_8_GetToKnowYourClassmates.exe
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_8_GetToKnowYourClassmates\LAB_8_GetToKnowYourClassmates\bin\Debug\netcoreapp3.1\LAB_8_GetToKnowYourClassmates.deps.json
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_8_GetToKnowYourClassmates\LAB_8_GetToKnowYourClassmates\bin\Debug\netcoreapp3.1\LAB_8_GetToKnowYourClassmates.runtimeconfig.json
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_8_GetToKnowYourClassmates\LAB_8_GetToKnowYourClassmates\bin\Debug\netcoreapp3.1\LAB_8_GetToKnowYourClassmates.runtimeconfig.dev.json
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_8_GetToKnowYourClassmates\LAB_8_GetToKnowYourClassmates\bin\Debug\netcoreapp3.1\LAB_8_GetToKnowYourClassmates.dll
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_8_GetToKnowYourClassmates\LAB_8_GetToKnowYourClassmates\bin\Debug\netcoreapp3.1\LAB_8_GetToKnowYourClassmates.pdb
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_8_GetToKnowYourClassmates\LAB_8_GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\LAB_8_GetToKnowYourClassmates.dll
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_8_GetToKnowYourClassmates\LAB_8_GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\LAB_8_GetToKnowYourClassmates.pdb
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_8_GetToKnowYourClassmates\LAB_8_GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\LAB_8_GetToKnowYourClassmates.genruntimeconfig.cache

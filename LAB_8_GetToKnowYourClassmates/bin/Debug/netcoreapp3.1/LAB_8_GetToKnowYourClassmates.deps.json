@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LAB_8_GetToKnowYourClassmates/1.0.0": {
+        "runtime": {
+          "LAB_8_GetToKnowYourClassmates.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LAB_8_GetToKnowYourClassmates/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
